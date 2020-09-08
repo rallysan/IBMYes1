@@ -1,8 +1,8 @@
 安装代码
 
-'''shell
+
 wget --no-check-certificate -O install.sh https://raw.githubusercontent.com/rallysan/IBMYes/master/install.sh && chmod +x install.sh  && ./install.sh
-'''
+
 
 
 
