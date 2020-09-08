@@ -1,3 +1,8 @@
+安装代码
+wget --no-check-certificate -O install.sh https://raw.githubusercontent.com/Rallysan/IBMYes/master/install.sh && chmod +x install.sh  && ./install.sh
+
+
+
 # IBMYes
 
 **测速节点已经停用，无法测试**
